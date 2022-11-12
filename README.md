@@ -1,0 +1,1 @@
+# Sensing-as-a-Service-Middleware-Architecture
